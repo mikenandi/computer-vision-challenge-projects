@@ -265,33 +265,33 @@ This shift is to better align with production workflows, TPU acceleration, and T
 
 ## ✅ Progress Tracker
 
-| Day | Project                                  | Status       | Notebook Link |
-| --- | ---------------------------------------- | ------------ | ------------- |
-| 1   | MNIST Handwritten Digit Classifier       | ✅ Completed | [Colab](#)    |
-| 2   | Fashion-MNIST Classifier                 | ⬜ Pending   | -             |
-| 3   | Fruit Classification                     | ⬜ Pending   | -             |
-| 4   | Flower Recognition (Transfer Learning)   | ⬜ Pending   | -             |
-| 5   | Real-Time Face Detection                 | ⬜ Pending   | -             |
-| 6   | Image Colorization (Autoencoder)         | ⬜ Pending   | -             |
-| 7   | OCR (Text Extraction)                    | ⬜ Pending   | -             |
-| 8   | Image Search Engine                      | ⬜ Pending   | -             |
-| 9   | Plant Disease Detection                  | ⬜ Pending   | -             |
-| 10  | Crop Type Recognition (Satellite)        | ⬜ Pending   | -             |
-| 11  | Poultry Disease Detection                | ⬜ Pending   | -             |
-| 12  | Pneumonia Detection (Chest X-rays)       | ⬜ Pending   | -             |
-| 13  | Skin Cancer Classification               | ⬜ Pending   | -             |
-| 14  | Retina Disease Detection                 | ⬜ Pending   | -             |
-| 15  | Fruit Counting & Detection               | ⬜ Pending   | -             |
-| 16  | Real-Time Object Detection (YOLOv8)      | ⬜ Pending   | -             |
-| 17  | Weed vs Crop Segmentation                | ⬜ Pending   | -             |
-| 18  | Brain Tumor Segmentation                 | ⬜ Pending   | -             |
-| 19  | Human Pose Estimation                    | ⬜ Pending   | -             |
-| 20  | Cattle Pose Estimation                   | ⬜ Pending   | -             |
-| 21  | Neural Style Transfer (AI Art)           | ⬜ Pending   | -             |
-| 22  | Cartoonization of Images                 | ⬜ Pending   | -             |
-| 23  | Real-Time Emotion Detection              | ⬜ Pending   | -             |
-| 24  | Livestock Health Classification          | ⬜ Pending   | -             |
-| 25  | Medical X-Ray Dashboard                  | ⬜ Pending   | -             |
-| 26  | Image Embedding Search Engine (Advanced) | ⬜ Pending   | -             |
-| 27  | Retinal Blood Vessel Segmentation        | ⬜ Pending   | -             |
-| 28  | Multi-Task Farm Monitoring System        | ⬜ Pending   | -             |
+| Day | Project                                  | Status       | Notebook Link                                                                                            |
+| --- | ---------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
+| 1   | MNIST Handwritten Digit Classifier       | ✅ Completed | [Colab](https://colab.research.google.com/drive/1Q7u6qnAdA_3Mo76WQ68E2x6OX0lqbGSi#scrollTo=u_Iwhve-ErWL) |
+| 2   | Fashion-MNIST Classifier                 | ✅ Completed | [Colab](https://colab.research.google.com/drive/1eyTs6v2p-EbxK9mPd2t1OEerNZDnvuvl#scrollTo=_c6PzhWJdXD7) |
+| 3   | Fruit Classification                     | ⬜ Pending   | -                                                                                                        |
+| 4   | Flower Recognition (Transfer Learning)   | ⬜ Pending   | -                                                                                                        |
+| 5   | Real-Time Face Detection                 | ⬜ Pending   | -                                                                                                        |
+| 6   | Image Colorization (Autoencoder)         | ⬜ Pending   | -                                                                                                        |
+| 7   | OCR (Text Extraction)                    | ⬜ Pending   | -                                                                                                        |
+| 8   | Image Search Engine                      | ⬜ Pending   | -                                                                                                        |
+| 9   | Plant Disease Detection                  | ⬜ Pending   | -                                                                                                        |
+| 10  | Crop Type Recognition (Satellite)        | ⬜ Pending   | -                                                                                                        |
+| 11  | Poultry Disease Detection                | ⬜ Pending   | -                                                                                                        |
+| 12  | Pneumonia Detection (Chest X-rays)       | ⬜ Pending   | -                                                                                                        |
+| 13  | Skin Cancer Classification               | ⬜ Pending   | -                                                                                                        |
+| 14  | Retina Disease Detection                 | ⬜ Pending   | -                                                                                                        |
+| 15  | Fruit Counting & Detection               | ⬜ Pending   | -                                                                                                        |
+| 16  | Real-Time Object Detection (YOLOv8)      | ⬜ Pending   | -                                                                                                        |
+| 17  | Weed vs Crop Segmentation                | ⬜ Pending   | -                                                                                                        |
+| 18  | Brain Tumor Segmentation                 | ⬜ Pending   | -                                                                                                        |
+| 19  | Human Pose Estimation                    | ⬜ Pending   | -                                                                                                        |
+| 20  | Cattle Pose Estimation                   | ⬜ Pending   | -                                                                                                        |
+| 21  | Neural Style Transfer (AI Art)           | ⬜ Pending   | -                                                                                                        |
+| 22  | Cartoonization of Images                 | ⬜ Pending   | -                                                                                                        |
+| 23  | Real-Time Emotion Detection              | ⬜ Pending   | -                                                                                                        |
+| 24  | Livestock Health Classification          | ⬜ Pending   | -                                                                                                        |
+| 25  | Medical X-Ray Dashboard                  | ⬜ Pending   | -                                                                                                        |
+| 26  | Image Embedding Search Engine (Advanced) | ⬜ Pending   | -                                                                                                        |
+| 27  | Retinal Blood Vessel Segmentation        | ⬜ Pending   | -                                                                                                        |
+| 28  | Multi-Task Farm Monitoring System        | ⬜ Pending   | -                                                                                                        |
