@@ -271,7 +271,7 @@ This shift is to better align with production workflows, TPU acceleration, and T
 | 2   | Fashion-MNIST Classifier                 | ✅ Completed | [Colab](https://colab.research.google.com/drive/1eyTs6v2p-EbxK9mPd2t1OEerNZDnvuvl#scrollTo=_c6PzhWJdXD7) |
 | 3   | Fruit Classification                     | ✅ Completed | [Colab](https://colab.research.google.com/drive/1RLzrD8acSbwZuvLpEN2KqbrUugaEdro0#scrollTo=IFRIqZjiRZl3) |
 | 4   | Flower Recognition (Transfer Learning)   | ✅ Completed | [Colab](https://colab.research.google.com/drive/1ht-7K23qPkgouI_m8n3Jz0adExzF2fdO#scrollTo=xxrxllL2IANi) |
-| 5   | Real-Time Face Detection                 | ⬜ Pending   | -                                                                                                        |
+| 5   | Real-Time Face Detection                 | ✅ Completed | [Folder](/realtime_face_detection/)                                                                      |
 | 6   | Image Colorization (Autoencoder)         | ⬜ Pending   | -                                                                                                        |
 | 7   | OCR (Text Extraction)                    | ⬜ Pending   | -                                                                                                        |
 | 8   | Image Search Engine                      | ⬜ Pending   | -                                                                                                        |
